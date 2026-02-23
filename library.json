@@ -2212,5 +2212,2179 @@
     "darkblack_gb4_stac_rr2": "darkblack/stac/darkblack_gb4_stac_rr2.wav",
     "darkblack_gb4_stac_rr3": "darkblack/stac/darkblack_gb4_stac_rr3.wav",
     "darkblack_gb4_stac_rr4": "darkblack/stac/darkblack_gb4_stac_rr4.wav"
-  }
+  },
+  "noteMap": [
+    {
+      "note": "E1",
+      "sample": "babyblue_fake_det_e1_f_rr1",
+      "loVel": 0,
+      "hiVel": 63
+    },
+    {
+      "note": "E1",
+      "sample": "babyblue_fake_det_e1_ff_rr1",
+      "loVel": 64,
+      "hiVel": 127
+    },
+    {
+      "note": "E1",
+      "sample": "babyblue_fake_ntp_e1_f_rr1",
+      "loVel": 0,
+      "hiVel": 63
+    },
+    {
+      "note": "E1",
+      "sample": "babyblue_fake_ntp_e1_ff_rr1",
+      "loVel": 64,
+      "hiVel": 127
+    },
+    {
+      "note": "F1",
+      "sample": "babyblue_fake_det_f1_f_rr1",
+      "loVel": 0,
+      "hiVel": 63
+    },
+    {
+      "note": "F1",
+      "sample": "babyblue_fake_det_f1_ff_rr1",
+      "loVel": 64,
+      "hiVel": 127
+    },
+    {
+      "note": "F1",
+      "sample": "babyblue_fake_ntp_f1_f_rr1",
+      "loVel": 0,
+      "hiVel": 63
+    },
+    {
+      "note": "F1",
+      "sample": "babyblue_fake_ntp_f1_ff_rr1",
+      "loVel": 64,
+      "hiVel": 127
+    },
+    {
+      "note": "F#1",
+      "sample": "babyblue_fake_det_gb1_f_rr1",
+      "loVel": 0,
+      "hiVel": 63
+    },
+    {
+      "note": "F#1",
+      "sample": "babyblue_fake_det_gb1_ff_rr1",
+      "loVel": 64,
+      "hiVel": 127
+    },
+    {
+      "note": "F#1",
+      "sample": "babyblue_fake_ntp_gb1_f_rr1",
+      "loVel": 0,
+      "hiVel": 63
+    },
+    {
+      "note": "F#1",
+      "sample": "babyblue_fake_ntp_gb1_ff_rr1",
+      "loVel": 64,
+      "hiVel": 127
+    },
+    {
+      "note": "G1",
+      "sample": "babyblue_fake_det_g1_f_rr1",
+      "loVel": 0,
+      "hiVel": 63
+    },
+    {
+      "note": "G1",
+      "sample": "babyblue_fake_det_g1_ff_rr1",
+      "loVel": 64,
+      "hiVel": 127
+    },
+    {
+      "note": "G1",
+      "sample": "babyblue_fake_ntp_g1_f_rr1",
+      "loVel": 0,
+      "hiVel": 63
+    },
+    {
+      "note": "G1",
+      "sample": "babyblue_fake_ntp_g1_ff_rr1",
+      "loVel": 64,
+      "hiVel": 127
+    },
+    {
+      "note": "G#1",
+      "sample": "babyblue_fake_det_ab1_f_rr1",
+      "loVel": 0,
+      "hiVel": 63
+    },
+    {
+      "note": "G#1",
+      "sample": "babyblue_fake_det_ab1_ff_rr1",
+      "loVel": 64,
+      "hiVel": 127
+    },
+    {
+      "note": "G#1",
+      "sample": "babyblue_fake_ntp_ab1_f_rr1",
+      "loVel": 0,
+      "hiVel": 63
+    },
+    {
+      "note": "G#1",
+      "sample": "babyblue_fake_ntp_ab1_ff_rr1",
+      "loVel": 64,
+      "hiVel": 127
+    },
+    {
+      "note": "A1",
+      "sample": "babyblue_fake_det_a1_f_rr1",
+      "loVel": 0,
+      "hiVel": 63
+    },
+    {
+      "note": "A1",
+      "sample": "babyblue_fake_det_a1_ff_rr1",
+      "loVel": 64,
+      "hiVel": 127
+    },
+    {
+      "note": "A1",
+      "sample": "babyblue_fake_ntp_a1_f_rr1",
+      "loVel": 0,
+      "hiVel": 63
+    },
+    {
+      "note": "A1",
+      "sample": "babyblue_fake_ntp_a1_ff_rr1",
+      "loVel": 64,
+      "hiVel": 127
+    },
+    {
+      "note": "A#1",
+      "sample": "babyblue_fake_det_bb1_f_rr1",
+      "loVel": 0,
+      "hiVel": 63
+    },
+    {
+      "note": "A#1",
+      "sample": "babyblue_fake_det_bb1_ff_rr1",
+      "loVel": 64,
+      "hiVel": 127
+    },
+    {
+      "note": "A#1",
+      "sample": "babyblue_fake_ntp_bb1_f_rr1",
+      "loVel": 0,
+      "hiVel": 63
+    },
+    {
+      "note": "A#1",
+      "sample": "babyblue_fake_ntp_bb1_ff_rr1",
+      "loVel": 64,
+      "hiVel": 127
+    },
+    {
+      "note": "B1",
+      "sample": "babyblue_b1_f_rr1",
+      "loVel": 77,
+      "hiVel": 101
+    },
+    {
+      "note": "B1",
+      "sample": "babyblue_b1_ff_rr1",
+      "loVel": 102,
+      "hiVel": 127
+    },
+    {
+      "note": "B1",
+      "sample": "darkblack_b1_f_rr1",
+      "loVel": 77,
+      "hiVel": 101
+    },
+    {
+      "note": "B1",
+      "sample": "darkblack_b1_ghost_f_rr1",
+      "loVel": 77,
+      "hiVel": 101
+    },
+    {
+      "note": "B1",
+      "sample": "darkblack_b1_ghost_p_rr1",
+      "loVel": 0,
+      "hiVel": 25
+    },
+    {
+      "note": "B1",
+      "sample": "darkblack_b1_mf_rr1",
+      "loVel": 51,
+      "hiVel": 76
+    },
+    {
+      "note": "B1",
+      "sample": "darkblack_b1_mp_rr1",
+      "loVel": 26,
+      "hiVel": 50
+    },
+    {
+      "note": "B1",
+      "sample": "darkblack_b1_p_rr1",
+      "loVel": 0,
+      "hiVel": 25
+    },
+    {
+      "note": "C2",
+      "sample": "babyblue_c2_f_rr1",
+      "loVel": 77,
+      "hiVel": 101
+    },
+    {
+      "note": "C2",
+      "sample": "babyblue_c2_ff_rr1",
+      "loVel": 102,
+      "hiVel": 127
+    },
+    {
+      "note": "C2",
+      "sample": "darkblack_c2_f_rr1",
+      "loVel": 77,
+      "hiVel": 101
+    },
+    {
+      "note": "C2",
+      "sample": "darkblack_c2_ghost_f_rr1",
+      "loVel": 77,
+      "hiVel": 101
+    },
+    {
+      "note": "C2",
+      "sample": "darkblack_c2_ghost_p_rr1",
+      "loVel": 0,
+      "hiVel": 25
+    },
+    {
+      "note": "C2",
+      "sample": "darkblack_c2_mf_rr1",
+      "loVel": 51,
+      "hiVel": 76
+    },
+    {
+      "note": "C2",
+      "sample": "darkblack_c2_mp_rr1",
+      "loVel": 26,
+      "hiVel": 50
+    },
+    {
+      "note": "C2",
+      "sample": "darkblack_c2_p_rr1",
+      "loVel": 0,
+      "hiVel": 25
+    },
+    {
+      "note": "C#2",
+      "sample": "babyblue_db2_f_rr1",
+      "loVel": 77,
+      "hiVel": 101
+    },
+    {
+      "note": "C#2",
+      "sample": "babyblue_db2_ff_rr1",
+      "loVel": 102,
+      "hiVel": 127
+    },
+    {
+      "note": "C#2",
+      "sample": "darkblack_db2_f_rr1",
+      "loVel": 77,
+      "hiVel": 101
+    },
+    {
+      "note": "C#2",
+      "sample": "darkblack_db2_ghost_f_rr1",
+      "loVel": 77,
+      "hiVel": 101
+    },
+    {
+      "note": "C#2",
+      "sample": "darkblack_db2_ghost_p_rr1",
+      "loVel": 0,
+      "hiVel": 25
+    },
+    {
+      "note": "C#2",
+      "sample": "darkblack_db2_mf_rr1",
+      "loVel": 51,
+      "hiVel": 76
+    },
+    {
+      "note": "C#2",
+      "sample": "darkblack_db2_mp_rr1",
+      "loVel": 26,
+      "hiVel": 50
+    },
+    {
+      "note": "C#2",
+      "sample": "darkblack_db2_p_rr1",
+      "loVel": 0,
+      "hiVel": 25
+    },
+    {
+      "note": "D2",
+      "sample": "babyblue_d2_f_rr1",
+      "loVel": 77,
+      "hiVel": 101
+    },
+    {
+      "note": "D2",
+      "sample": "babyblue_d2_ff_rr1",
+      "loVel": 102,
+      "hiVel": 127
+    },
+    {
+      "note": "D2",
+      "sample": "darkblack_d2_f_rr1",
+      "loVel": 77,
+      "hiVel": 101
+    },
+    {
+      "note": "D2",
+      "sample": "darkblack_d2_ghost_f_rr1",
+      "loVel": 77,
+      "hiVel": 101
+    },
+    {
+      "note": "D2",
+      "sample": "darkblack_d2_ghost_p_rr1",
+      "loVel": 0,
+      "hiVel": 25
+    },
+    {
+      "note": "D2",
+      "sample": "darkblack_d2_mf_rr1",
+      "loVel": 51,
+      "hiVel": 76
+    },
+    {
+      "note": "D2",
+      "sample": "darkblack_d2_mp_rr1",
+      "loVel": 26,
+      "hiVel": 50
+    },
+    {
+      "note": "D2",
+      "sample": "darkblack_d2_p_rr1",
+      "loVel": 0,
+      "hiVel": 25
+    },
+    {
+      "note": "D#2",
+      "sample": "babyblue_eb2_f_rr1",
+      "loVel": 77,
+      "hiVel": 101
+    },
+    {
+      "note": "D#2",
+      "sample": "babyblue_eb2_ff_rr1",
+      "loVel": 102,
+      "hiVel": 127
+    },
+    {
+      "note": "D#2",
+      "sample": "darkblack_eb2_f_rr1",
+      "loVel": 77,
+      "hiVel": 101
+    },
+    {
+      "note": "D#2",
+      "sample": "darkblack_eb2_ghost_f_rr1",
+      "loVel": 77,
+      "hiVel": 101
+    },
+    {
+      "note": "D#2",
+      "sample": "darkblack_eb2_ghost_p_rr1",
+      "loVel": 0,
+      "hiVel": 25
+    },
+    {
+      "note": "D#2",
+      "sample": "darkblack_eb2_mf_rr1",
+      "loVel": 51,
+      "hiVel": 76
+    },
+    {
+      "note": "D#2",
+      "sample": "darkblack_eb2_mp_rr1",
+      "loVel": 26,
+      "hiVel": 50
+    },
+    {
+      "note": "D#2",
+      "sample": "darkblack_eb2_p_rr1",
+      "loVel": 0,
+      "hiVel": 25
+    },
+    {
+      "note": "E2",
+      "sample": "babyblue_e2_f_rr1",
+      "loVel": 77,
+      "hiVel": 101
+    },
+    {
+      "note": "E2",
+      "sample": "babyblue_e2_ff_rr1",
+      "loVel": 102,
+      "hiVel": 127
+    },
+    {
+      "note": "E2",
+      "sample": "darkblack_e2_f_rr1",
+      "loVel": 77,
+      "hiVel": 101
+    },
+    {
+      "note": "E2",
+      "sample": "darkblack_e2_ghost_f_rr1",
+      "loVel": 77,
+      "hiVel": 101
+    },
+    {
+      "note": "E2",
+      "sample": "darkblack_e2_ghost_p_rr1",
+      "loVel": 0,
+      "hiVel": 25
+    },
+    {
+      "note": "E2",
+      "sample": "darkblack_e2_mf_rr1",
+      "loVel": 51,
+      "hiVel": 76
+    },
+    {
+      "note": "E2",
+      "sample": "darkblack_e2_mp_rr1",
+      "loVel": 26,
+      "hiVel": 50
+    },
+    {
+      "note": "E2",
+      "sample": "darkblack_e2_p_rr1",
+      "loVel": 0,
+      "hiVel": 25
+    },
+    {
+      "note": "F2",
+      "sample": "babyblue_f2_f_rr1",
+      "loVel": 77,
+      "hiVel": 101
+    },
+    {
+      "note": "F2",
+      "sample": "babyblue_f2_ff_rr1",
+      "loVel": 102,
+      "hiVel": 127
+    },
+    {
+      "note": "F2",
+      "sample": "darkblack_f2_f_rr1",
+      "loVel": 77,
+      "hiVel": 101
+    },
+    {
+      "note": "F2",
+      "sample": "darkblack_f2_ghost_f_rr1",
+      "loVel": 77,
+      "hiVel": 101
+    },
+    {
+      "note": "F2",
+      "sample": "darkblack_f2_ghost_p_rr1",
+      "loVel": 0,
+      "hiVel": 25
+    },
+    {
+      "note": "F2",
+      "sample": "darkblack_f2_mf_rr1",
+      "loVel": 51,
+      "hiVel": 76
+    },
+    {
+      "note": "F2",
+      "sample": "darkblack_f2_mp_rr1",
+      "loVel": 26,
+      "hiVel": 50
+    },
+    {
+      "note": "F2",
+      "sample": "darkblack_f2_p_rr1",
+      "loVel": 0,
+      "hiVel": 25
+    },
+    {
+      "note": "F#2",
+      "sample": "babyblue_gb2_f_rr1",
+      "loVel": 77,
+      "hiVel": 101
+    },
+    {
+      "note": "F#2",
+      "sample": "babyblue_gb2_ff_rr1",
+      "loVel": 102,
+      "hiVel": 127
+    },
+    {
+      "note": "F#2",
+      "sample": "darkblack_gb2_f_rr1",
+      "loVel": 77,
+      "hiVel": 101
+    },
+    {
+      "note": "F#2",
+      "sample": "darkblack_gb2_ghost_f_rr1",
+      "loVel": 77,
+      "hiVel": 101
+    },
+    {
+      "note": "F#2",
+      "sample": "darkblack_gb2_ghost_p_rr1",
+      "loVel": 0,
+      "hiVel": 25
+    },
+    {
+      "note": "F#2",
+      "sample": "darkblack_gb2_mf_rr1",
+      "loVel": 51,
+      "hiVel": 76
+    },
+    {
+      "note": "F#2",
+      "sample": "darkblack_gb2_mp_rr1",
+      "loVel": 26,
+      "hiVel": 50
+    },
+    {
+      "note": "F#2",
+      "sample": "darkblack_gb2_p_rr1",
+      "loVel": 0,
+      "hiVel": 25
+    },
+    {
+      "note": "G2",
+      "sample": "babyblue_g2_f_rr1",
+      "loVel": 77,
+      "hiVel": 101
+    },
+    {
+      "note": "G2",
+      "sample": "babyblue_g2_ff_rr1",
+      "loVel": 102,
+      "hiVel": 127
+    },
+    {
+      "note": "G2",
+      "sample": "darkblack_g2_f_rr1",
+      "loVel": 77,
+      "hiVel": 101
+    },
+    {
+      "note": "G2",
+      "sample": "darkblack_g2_ghost_f_rr1",
+      "loVel": 77,
+      "hiVel": 101
+    },
+    {
+      "note": "G2",
+      "sample": "darkblack_g2_ghost_p_rr1",
+      "loVel": 0,
+      "hiVel": 25
+    },
+    {
+      "note": "G2",
+      "sample": "darkblack_g2_mf_rr1",
+      "loVel": 51,
+      "hiVel": 76
+    },
+    {
+      "note": "G2",
+      "sample": "darkblack_g2_mp_rr1",
+      "loVel": 26,
+      "hiVel": 50
+    },
+    {
+      "note": "G2",
+      "sample": "darkblack_g2_p_rr1",
+      "loVel": 0,
+      "hiVel": 25
+    },
+    {
+      "note": "G#2",
+      "sample": "babyblue_ab2_f_rr1",
+      "loVel": 77,
+      "hiVel": 101
+    },
+    {
+      "note": "G#2",
+      "sample": "babyblue_ab2_ff_rr1",
+      "loVel": 102,
+      "hiVel": 127
+    },
+    {
+      "note": "G#2",
+      "sample": "darkblack_ab2_f_rr1",
+      "loVel": 77,
+      "hiVel": 101
+    },
+    {
+      "note": "G#2",
+      "sample": "darkblack_ab2_ghost_f_rr1",
+      "loVel": 77,
+      "hiVel": 101
+    },
+    {
+      "note": "G#2",
+      "sample": "darkblack_ab2_ghost_p_rr1",
+      "loVel": 0,
+      "hiVel": 25
+    },
+    {
+      "note": "G#2",
+      "sample": "darkblack_ab2_mf_rr1",
+      "loVel": 51,
+      "hiVel": 76
+    },
+    {
+      "note": "G#2",
+      "sample": "darkblack_ab2_mp_rr1",
+      "loVel": 26,
+      "hiVel": 50
+    },
+    {
+      "note": "G#2",
+      "sample": "darkblack_ab2_p_rr1",
+      "loVel": 0,
+      "hiVel": 25
+    },
+    {
+      "note": "A2",
+      "sample": "babyblue_a2_f_rr1",
+      "loVel": 77,
+      "hiVel": 101
+    },
+    {
+      "note": "A2",
+      "sample": "babyblue_a2_ff_rr1",
+      "loVel": 102,
+      "hiVel": 127
+    },
+    {
+      "note": "A2",
+      "sample": "darkblack_a2_f_rr1",
+      "loVel": 77,
+      "hiVel": 101
+    },
+    {
+      "note": "A2",
+      "sample": "darkblack_a2_ghost_f_rr1",
+      "loVel": 77,
+      "hiVel": 101
+    },
+    {
+      "note": "A2",
+      "sample": "darkblack_a2_ghost_p_rr1",
+      "loVel": 0,
+      "hiVel": 25
+    },
+    {
+      "note": "A2",
+      "sample": "darkblack_a2_mf_rr1",
+      "loVel": 51,
+      "hiVel": 76
+    },
+    {
+      "note": "A2",
+      "sample": "darkblack_a2_mp_rr1",
+      "loVel": 26,
+      "hiVel": 50
+    },
+    {
+      "note": "A2",
+      "sample": "darkblack_a2_p_rr1",
+      "loVel": 0,
+      "hiVel": 25
+    },
+    {
+      "note": "A#2",
+      "sample": "babyblue_bb2_f_rr1",
+      "loVel": 77,
+      "hiVel": 101
+    },
+    {
+      "note": "A#2",
+      "sample": "babyblue_bb2_ff_rr1",
+      "loVel": 102,
+      "hiVel": 127
+    },
+    {
+      "note": "A#2",
+      "sample": "darkblack_bb2_f_rr1",
+      "loVel": 77,
+      "hiVel": 101
+    },
+    {
+      "note": "A#2",
+      "sample": "darkblack_bb2_ghost_f_rr1",
+      "loVel": 77,
+      "hiVel": 101
+    },
+    {
+      "note": "A#2",
+      "sample": "darkblack_bb2_ghost_p_rr1",
+      "loVel": 0,
+      "hiVel": 25
+    },
+    {
+      "note": "A#2",
+      "sample": "darkblack_bb2_mf_rr1",
+      "loVel": 51,
+      "hiVel": 76
+    },
+    {
+      "note": "A#2",
+      "sample": "darkblack_bb2_mp_rr1",
+      "loVel": 26,
+      "hiVel": 50
+    },
+    {
+      "note": "A#2",
+      "sample": "darkblack_bb2_p_rr1",
+      "loVel": 0,
+      "hiVel": 25
+    },
+    {
+      "note": "B2",
+      "sample": "babyblue_b2_f_rr1",
+      "loVel": 77,
+      "hiVel": 101
+    },
+    {
+      "note": "B2",
+      "sample": "babyblue_b2_ff_rr1",
+      "loVel": 102,
+      "hiVel": 127
+    },
+    {
+      "note": "B2",
+      "sample": "darkblack_b2_f_rr1",
+      "loVel": 77,
+      "hiVel": 101
+    },
+    {
+      "note": "B2",
+      "sample": "darkblack_b2_ghost_f_rr1",
+      "loVel": 77,
+      "hiVel": 101
+    },
+    {
+      "note": "B2",
+      "sample": "darkblack_b2_ghost_p_rr1",
+      "loVel": 0,
+      "hiVel": 25
+    },
+    {
+      "note": "B2",
+      "sample": "darkblack_b2_mf_rr1",
+      "loVel": 51,
+      "hiVel": 76
+    },
+    {
+      "note": "B2",
+      "sample": "darkblack_b2_mp_rr1",
+      "loVel": 26,
+      "hiVel": 50
+    },
+    {
+      "note": "B2",
+      "sample": "darkblack_b2_p_rr1",
+      "loVel": 0,
+      "hiVel": 25
+    },
+    {
+      "note": "C3",
+      "sample": "babyblue_c3_f_rr1",
+      "loVel": 77,
+      "hiVel": 101
+    },
+    {
+      "note": "C3",
+      "sample": "babyblue_c3_ff_rr1",
+      "loVel": 102,
+      "hiVel": 127
+    },
+    {
+      "note": "C3",
+      "sample": "darkblack_c3_f_rr1",
+      "loVel": 77,
+      "hiVel": 101
+    },
+    {
+      "note": "C3",
+      "sample": "darkblack_c3_ghost_f_rr1",
+      "loVel": 77,
+      "hiVel": 101
+    },
+    {
+      "note": "C3",
+      "sample": "darkblack_c3_ghost_p_rr1",
+      "loVel": 0,
+      "hiVel": 25
+    },
+    {
+      "note": "C3",
+      "sample": "darkblack_c3_mf_rr1",
+      "loVel": 51,
+      "hiVel": 76
+    },
+    {
+      "note": "C3",
+      "sample": "darkblack_c3_mp_rr1",
+      "loVel": 26,
+      "hiVel": 50
+    },
+    {
+      "note": "C3",
+      "sample": "darkblack_c3_p_rr1",
+      "loVel": 0,
+      "hiVel": 25
+    },
+    {
+      "note": "C#3",
+      "sample": "babyblue_db3_f_rr1",
+      "loVel": 77,
+      "hiVel": 101
+    },
+    {
+      "note": "C#3",
+      "sample": "babyblue_db3_ff_rr1",
+      "loVel": 102,
+      "hiVel": 127
+    },
+    {
+      "note": "C#3",
+      "sample": "darkblack_db3_f_rr1",
+      "loVel": 77,
+      "hiVel": 101
+    },
+    {
+      "note": "C#3",
+      "sample": "darkblack_db3_ghost_f_rr1",
+      "loVel": 77,
+      "hiVel": 101
+    },
+    {
+      "note": "C#3",
+      "sample": "darkblack_db3_ghost_p_rr1",
+      "loVel": 0,
+      "hiVel": 25
+    },
+    {
+      "note": "C#3",
+      "sample": "darkblack_db3_mf_rr1",
+      "loVel": 51,
+      "hiVel": 76
+    },
+    {
+      "note": "C#3",
+      "sample": "darkblack_db3_mp_rr1",
+      "loVel": 26,
+      "hiVel": 50
+    },
+    {
+      "note": "C#3",
+      "sample": "darkblack_db3_p_rr1",
+      "loVel": 0,
+      "hiVel": 25
+    },
+    {
+      "note": "D3",
+      "sample": "babyblue_d3_f_rr1",
+      "loVel": 77,
+      "hiVel": 101
+    },
+    {
+      "note": "D3",
+      "sample": "babyblue_d3_ff_rr1",
+      "loVel": 102,
+      "hiVel": 127
+    },
+    {
+      "note": "D3",
+      "sample": "darkblack_d3_f_rr1",
+      "loVel": 77,
+      "hiVel": 101
+    },
+    {
+      "note": "D3",
+      "sample": "darkblack_d3_ghost_f_rr1",
+      "loVel": 77,
+      "hiVel": 101
+    },
+    {
+      "note": "D3",
+      "sample": "darkblack_d3_ghost_p_rr1",
+      "loVel": 0,
+      "hiVel": 25
+    },
+    {
+      "note": "D3",
+      "sample": "darkblack_d3_mf_rr1",
+      "loVel": 51,
+      "hiVel": 76
+    },
+    {
+      "note": "D3",
+      "sample": "darkblack_d3_mp_rr1",
+      "loVel": 26,
+      "hiVel": 50
+    },
+    {
+      "note": "D3",
+      "sample": "darkblack_d3_p_rr1",
+      "loVel": 0,
+      "hiVel": 25
+    },
+    {
+      "note": "D#3",
+      "sample": "babyblue_eb3_f_rr1",
+      "loVel": 77,
+      "hiVel": 101
+    },
+    {
+      "note": "D#3",
+      "sample": "babyblue_eb3_ff_rr1",
+      "loVel": 102,
+      "hiVel": 127
+    },
+    {
+      "note": "D#3",
+      "sample": "darkblack_eb3_f_rr1",
+      "loVel": 77,
+      "hiVel": 101
+    },
+    {
+      "note": "D#3",
+      "sample": "darkblack_eb3_ghost_f_rr1",
+      "loVel": 77,
+      "hiVel": 101
+    },
+    {
+      "note": "D#3",
+      "sample": "darkblack_eb3_ghost_p_rr1",
+      "loVel": 0,
+      "hiVel": 25
+    },
+    {
+      "note": "D#3",
+      "sample": "darkblack_eb3_mf_rr1",
+      "loVel": 51,
+      "hiVel": 76
+    },
+    {
+      "note": "D#3",
+      "sample": "darkblack_eb3_mp_rr1",
+      "loVel": 26,
+      "hiVel": 50
+    },
+    {
+      "note": "D#3",
+      "sample": "darkblack_eb3_p_rr1",
+      "loVel": 0,
+      "hiVel": 25
+    },
+    {
+      "note": "E3",
+      "sample": "babyblue_e3_f_rr1",
+      "loVel": 77,
+      "hiVel": 101
+    },
+    {
+      "note": "E3",
+      "sample": "babyblue_e3_ff_rr1",
+      "loVel": 102,
+      "hiVel": 127
+    },
+    {
+      "note": "E3",
+      "sample": "darkblack_e3_f_rr1",
+      "loVel": 77,
+      "hiVel": 101
+    },
+    {
+      "note": "E3",
+      "sample": "darkblack_e3_ghost_f_rr1",
+      "loVel": 77,
+      "hiVel": 101
+    },
+    {
+      "note": "E3",
+      "sample": "darkblack_e3_ghost_p_rr1",
+      "loVel": 0,
+      "hiVel": 25
+    },
+    {
+      "note": "E3",
+      "sample": "darkblack_e3_mf_rr1",
+      "loVel": 51,
+      "hiVel": 76
+    },
+    {
+      "note": "E3",
+      "sample": "darkblack_e3_mp_rr1",
+      "loVel": 26,
+      "hiVel": 50
+    },
+    {
+      "note": "E3",
+      "sample": "darkblack_e3_p_rr1",
+      "loVel": 0,
+      "hiVel": 25
+    },
+    {
+      "note": "F3",
+      "sample": "babyblue_f3_f_rr1",
+      "loVel": 77,
+      "hiVel": 101
+    },
+    {
+      "note": "F3",
+      "sample": "babyblue_f3_ff_rr1",
+      "loVel": 102,
+      "hiVel": 127
+    },
+    {
+      "note": "F3",
+      "sample": "darkblack_f3_f_rr1",
+      "loVel": 77,
+      "hiVel": 101
+    },
+    {
+      "note": "F3",
+      "sample": "darkblack_f3_ghost_f_rr1",
+      "loVel": 77,
+      "hiVel": 101
+    },
+    {
+      "note": "F3",
+      "sample": "darkblack_f3_ghost_p_rr1",
+      "loVel": 0,
+      "hiVel": 25
+    },
+    {
+      "note": "F3",
+      "sample": "darkblack_f3_mf_rr1",
+      "loVel": 51,
+      "hiVel": 76
+    },
+    {
+      "note": "F3",
+      "sample": "darkblack_f3_mp_rr1",
+      "loVel": 26,
+      "hiVel": 50
+    },
+    {
+      "note": "F3",
+      "sample": "darkblack_f3_p_rr1",
+      "loVel": 0,
+      "hiVel": 25
+    },
+    {
+      "note": "F#3",
+      "sample": "babyblue_gb3_f_rr1",
+      "loVel": 77,
+      "hiVel": 101
+    },
+    {
+      "note": "F#3",
+      "sample": "babyblue_gb3_ff_rr1",
+      "loVel": 102,
+      "hiVel": 127
+    },
+    {
+      "note": "F#3",
+      "sample": "darkblack_gb3_f_rr1",
+      "loVel": 77,
+      "hiVel": 101
+    },
+    {
+      "note": "F#3",
+      "sample": "darkblack_gb3_ghost_f_rr1",
+      "loVel": 77,
+      "hiVel": 101
+    },
+    {
+      "note": "F#3",
+      "sample": "darkblack_gb3_ghost_p_rr1",
+      "loVel": 0,
+      "hiVel": 25
+    },
+    {
+      "note": "F#3",
+      "sample": "darkblack_gb3_mf_rr1",
+      "loVel": 51,
+      "hiVel": 76
+    },
+    {
+      "note": "F#3",
+      "sample": "darkblack_gb3_mp_rr1",
+      "loVel": 26,
+      "hiVel": 50
+    },
+    {
+      "note": "F#3",
+      "sample": "darkblack_gb3_p_rr1",
+      "loVel": 0,
+      "hiVel": 25
+    },
+    {
+      "note": "G3",
+      "sample": "babyblue_g3_f_rr1",
+      "loVel": 77,
+      "hiVel": 101
+    },
+    {
+      "note": "G3",
+      "sample": "babyblue_g3_ff_rr1",
+      "loVel": 102,
+      "hiVel": 127
+    },
+    {
+      "note": "G3",
+      "sample": "darkblack_g3_f_rr1",
+      "loVel": 77,
+      "hiVel": 101
+    },
+    {
+      "note": "G3",
+      "sample": "darkblack_g3_ghost_f_rr1",
+      "loVel": 77,
+      "hiVel": 101
+    },
+    {
+      "note": "G3",
+      "sample": "darkblack_g3_ghost_p_rr1",
+      "loVel": 0,
+      "hiVel": 25
+    },
+    {
+      "note": "G3",
+      "sample": "darkblack_g3_mf_rr1",
+      "loVel": 51,
+      "hiVel": 76
+    },
+    {
+      "note": "G3",
+      "sample": "darkblack_g3_mp_rr1",
+      "loVel": 26,
+      "hiVel": 50
+    },
+    {
+      "note": "G3",
+      "sample": "darkblack_g3_p_rr1",
+      "loVel": 0,
+      "hiVel": 25
+    },
+    {
+      "note": "G#3",
+      "sample": "babyblue_ab3_f_rr1",
+      "loVel": 77,
+      "hiVel": 101
+    },
+    {
+      "note": "G#3",
+      "sample": "babyblue_ab3_ff_rr1",
+      "loVel": 102,
+      "hiVel": 127
+    },
+    {
+      "note": "G#3",
+      "sample": "darkblack_ab3_f_rr1",
+      "loVel": 77,
+      "hiVel": 101
+    },
+    {
+      "note": "G#3",
+      "sample": "darkblack_ab3_ghost_f_rr1",
+      "loVel": 77,
+      "hiVel": 101
+    },
+    {
+      "note": "G#3",
+      "sample": "darkblack_ab3_ghost_p_rr1",
+      "loVel": 0,
+      "hiVel": 25
+    },
+    {
+      "note": "G#3",
+      "sample": "darkblack_ab3_mf_rr1",
+      "loVel": 51,
+      "hiVel": 76
+    },
+    {
+      "note": "G#3",
+      "sample": "darkblack_ab3_mp_rr1",
+      "loVel": 26,
+      "hiVel": 50
+    },
+    {
+      "note": "G#3",
+      "sample": "darkblack_ab3_p_rr1",
+      "loVel": 0,
+      "hiVel": 25
+    },
+    {
+      "note": "A3",
+      "sample": "babyblue_a3_f_rr1",
+      "loVel": 77,
+      "hiVel": 101
+    },
+    {
+      "note": "A3",
+      "sample": "babyblue_a3_ff_rr1",
+      "loVel": 102,
+      "hiVel": 127
+    },
+    {
+      "note": "A3",
+      "sample": "darkblack_a3_f_rr1",
+      "loVel": 77,
+      "hiVel": 101
+    },
+    {
+      "note": "A3",
+      "sample": "darkblack_a3_ghost_f_rr1",
+      "loVel": 77,
+      "hiVel": 101
+    },
+    {
+      "note": "A3",
+      "sample": "darkblack_a3_ghost_p_rr1",
+      "loVel": 0,
+      "hiVel": 25
+    },
+    {
+      "note": "A3",
+      "sample": "darkblack_a3_mf_rr1",
+      "loVel": 51,
+      "hiVel": 76
+    },
+    {
+      "note": "A3",
+      "sample": "darkblack_a3_mp_rr1",
+      "loVel": 26,
+      "hiVel": 50
+    },
+    {
+      "note": "A3",
+      "sample": "darkblack_a3_p_rr1",
+      "loVel": 0,
+      "hiVel": 25
+    },
+    {
+      "note": "A#3",
+      "sample": "babyblue_bb3_f_rr1",
+      "loVel": 77,
+      "hiVel": 101
+    },
+    {
+      "note": "A#3",
+      "sample": "babyblue_bb3_ff_rr1",
+      "loVel": 102,
+      "hiVel": 127
+    },
+    {
+      "note": "A#3",
+      "sample": "darkblack_bb3_f_rr1",
+      "loVel": 77,
+      "hiVel": 101
+    },
+    {
+      "note": "A#3",
+      "sample": "darkblack_bb3_ghost_f_rr1",
+      "loVel": 77,
+      "hiVel": 101
+    },
+    {
+      "note": "A#3",
+      "sample": "darkblack_bb3_ghost_p_rr1",
+      "loVel": 0,
+      "hiVel": 25
+    },
+    {
+      "note": "A#3",
+      "sample": "darkblack_bb3_mf_rr1",
+      "loVel": 51,
+      "hiVel": 76
+    },
+    {
+      "note": "A#3",
+      "sample": "darkblack_bb3_mp_rr1",
+      "loVel": 26,
+      "hiVel": 50
+    },
+    {
+      "note": "A#3",
+      "sample": "darkblack_bb3_p_rr1",
+      "loVel": 0,
+      "hiVel": 25
+    },
+    {
+      "note": "B3",
+      "sample": "babyblue_b3_f_rr1",
+      "loVel": 77,
+      "hiVel": 101
+    },
+    {
+      "note": "B3",
+      "sample": "babyblue_b3_ff_rr1",
+      "loVel": 102,
+      "hiVel": 127
+    },
+    {
+      "note": "B3",
+      "sample": "darkblack_b3_f_rr1",
+      "loVel": 77,
+      "hiVel": 101
+    },
+    {
+      "note": "B3",
+      "sample": "darkblack_b3_ghost_f_rr1",
+      "loVel": 77,
+      "hiVel": 101
+    },
+    {
+      "note": "B3",
+      "sample": "darkblack_b3_ghost_p_rr1",
+      "loVel": 0,
+      "hiVel": 25
+    },
+    {
+      "note": "B3",
+      "sample": "darkblack_b3_mf_rr1",
+      "loVel": 51,
+      "hiVel": 76
+    },
+    {
+      "note": "B3",
+      "sample": "darkblack_b3_mp_rr1",
+      "loVel": 26,
+      "hiVel": 50
+    },
+    {
+      "note": "B3",
+      "sample": "darkblack_b3_p_rr1",
+      "loVel": 0,
+      "hiVel": 25
+    },
+    {
+      "note": "C4",
+      "sample": "babyblue_c4_f_rr1",
+      "loVel": 77,
+      "hiVel": 101
+    },
+    {
+      "note": "C4",
+      "sample": "babyblue_c4_ff_rr1",
+      "loVel": 102,
+      "hiVel": 127
+    },
+    {
+      "note": "C4",
+      "sample": "darkblack_c4_f_rr1",
+      "loVel": 77,
+      "hiVel": 101
+    },
+    {
+      "note": "C4",
+      "sample": "darkblack_c4_ghost_f_rr1",
+      "loVel": 77,
+      "hiVel": 101
+    },
+    {
+      "note": "C4",
+      "sample": "darkblack_c4_ghost_p_rr1",
+      "loVel": 0,
+      "hiVel": 25
+    },
+    {
+      "note": "C4",
+      "sample": "darkblack_c4_mf_rr1",
+      "loVel": 51,
+      "hiVel": 76
+    },
+    {
+      "note": "C4",
+      "sample": "darkblack_c4_mp_rr1",
+      "loVel": 26,
+      "hiVel": 50
+    },
+    {
+      "note": "C4",
+      "sample": "darkblack_c4_p_rr1",
+      "loVel": 0,
+      "hiVel": 25
+    },
+    {
+      "note": "C#4",
+      "sample": "babyblue_db4_f_rr1",
+      "loVel": 77,
+      "hiVel": 101
+    },
+    {
+      "note": "C#4",
+      "sample": "babyblue_db4_ff_rr1",
+      "loVel": 102,
+      "hiVel": 127
+    },
+    {
+      "note": "C#4",
+      "sample": "darkblack_db4_f_rr1",
+      "loVel": 77,
+      "hiVel": 101
+    },
+    {
+      "note": "C#4",
+      "sample": "darkblack_db4_ghost_f_rr1",
+      "loVel": 77,
+      "hiVel": 101
+    },
+    {
+      "note": "C#4",
+      "sample": "darkblack_db4_ghost_p_rr1",
+      "loVel": 0,
+      "hiVel": 25
+    },
+    {
+      "note": "C#4",
+      "sample": "darkblack_db4_mf_rr1",
+      "loVel": 51,
+      "hiVel": 76
+    },
+    {
+      "note": "C#4",
+      "sample": "darkblack_db4_mp_rr1",
+      "loVel": 26,
+      "hiVel": 50
+    },
+    {
+      "note": "C#4",
+      "sample": "darkblack_db4_p_rr1",
+      "loVel": 0,
+      "hiVel": 25
+    },
+    {
+      "note": "D4",
+      "sample": "babyblue_d4_f_rr1",
+      "loVel": 77,
+      "hiVel": 101
+    },
+    {
+      "note": "D4",
+      "sample": "babyblue_d4_ff_rr1",
+      "loVel": 102,
+      "hiVel": 127
+    },
+    {
+      "note": "D4",
+      "sample": "darkblack_d4_f_rr1",
+      "loVel": 77,
+      "hiVel": 101
+    },
+    {
+      "note": "D4",
+      "sample": "darkblack_d4_ghost_f_rr1",
+      "loVel": 77,
+      "hiVel": 101
+    },
+    {
+      "note": "D4",
+      "sample": "darkblack_d4_ghost_p_rr1",
+      "loVel": 0,
+      "hiVel": 25
+    },
+    {
+      "note": "D4",
+      "sample": "darkblack_d4_mf_rr1",
+      "loVel": 51,
+      "hiVel": 76
+    },
+    {
+      "note": "D4",
+      "sample": "darkblack_d4_mp_rr1",
+      "loVel": 26,
+      "hiVel": 50
+    },
+    {
+      "note": "D4",
+      "sample": "darkblack_d4_p_rr1",
+      "loVel": 0,
+      "hiVel": 25
+    },
+    {
+      "note": "D#4",
+      "sample": "babyblue_eb4_f_rr1",
+      "loVel": 77,
+      "hiVel": 101
+    },
+    {
+      "note": "D#4",
+      "sample": "babyblue_eb4_ff_rr1",
+      "loVel": 102,
+      "hiVel": 127
+    },
+    {
+      "note": "D#4",
+      "sample": "darkblack_eb4_f_rr1",
+      "loVel": 77,
+      "hiVel": 101
+    },
+    {
+      "note": "D#4",
+      "sample": "darkblack_eb4_ghost_f_rr1",
+      "loVel": 77,
+      "hiVel": 101
+    },
+    {
+      "note": "D#4",
+      "sample": "darkblack_eb4_ghost_p_rr1",
+      "loVel": 0,
+      "hiVel": 25
+    },
+    {
+      "note": "D#4",
+      "sample": "darkblack_eb4_mf_rr1",
+      "loVel": 51,
+      "hiVel": 76
+    },
+    {
+      "note": "D#4",
+      "sample": "darkblack_eb4_mp_rr1",
+      "loVel": 26,
+      "hiVel": 50
+    },
+    {
+      "note": "D#4",
+      "sample": "darkblack_eb4_p_rr1",
+      "loVel": 0,
+      "hiVel": 25
+    },
+    {
+      "note": "E4",
+      "sample": "babyblue_e4_f_rr1",
+      "loVel": 77,
+      "hiVel": 101
+    },
+    {
+      "note": "E4",
+      "sample": "babyblue_e4_ff_rr1",
+      "loVel": 102,
+      "hiVel": 127
+    },
+    {
+      "note": "E4",
+      "sample": "darkblack_e4_f_rr1",
+      "loVel": 77,
+      "hiVel": 101
+    },
+    {
+      "note": "E4",
+      "sample": "darkblack_e4_ghost_f_rr1",
+      "loVel": 77,
+      "hiVel": 101
+    },
+    {
+      "note": "E4",
+      "sample": "darkblack_e4_ghost_p_rr1",
+      "loVel": 0,
+      "hiVel": 25
+    },
+    {
+      "note": "E4",
+      "sample": "darkblack_e4_mf_rr1",
+      "loVel": 51,
+      "hiVel": 76
+    },
+    {
+      "note": "E4",
+      "sample": "darkblack_e4_mp_rr1",
+      "loVel": 26,
+      "hiVel": 50
+    },
+    {
+      "note": "E4",
+      "sample": "darkblack_e4_p_rr1",
+      "loVel": 0,
+      "hiVel": 25
+    },
+    {
+      "note": "F4",
+      "sample": "babyblue_f4_f_rr1",
+      "loVel": 77,
+      "hiVel": 101
+    },
+    {
+      "note": "F4",
+      "sample": "babyblue_f4_ff_rr1",
+      "loVel": 102,
+      "hiVel": 127
+    },
+    {
+      "note": "F4",
+      "sample": "darkblack_f4_f_rr1",
+      "loVel": 77,
+      "hiVel": 101
+    },
+    {
+      "note": "F4",
+      "sample": "darkblack_f4_ghost_f_rr1",
+      "loVel": 77,
+      "hiVel": 101
+    },
+    {
+      "note": "F4",
+      "sample": "darkblack_f4_ghost_p_rr1",
+      "loVel": 0,
+      "hiVel": 25
+    },
+    {
+      "note": "F4",
+      "sample": "darkblack_f4_mf_rr1",
+      "loVel": 51,
+      "hiVel": 76
+    },
+    {
+      "note": "F4",
+      "sample": "darkblack_f4_mp_rr1",
+      "loVel": 26,
+      "hiVel": 50
+    },
+    {
+      "note": "F4",
+      "sample": "darkblack_f4_p_rr1",
+      "loVel": 0,
+      "hiVel": 25
+    },
+    {
+      "note": "F#4",
+      "sample": "babyblue_gb4_f_rr1",
+      "loVel": 77,
+      "hiVel": 101
+    },
+    {
+      "note": "F#4",
+      "sample": "babyblue_gb4_ff_rr1",
+      "loVel": 102,
+      "hiVel": 127
+    },
+    {
+      "note": "F#4",
+      "sample": "darkblack_gb4_f_rr1",
+      "loVel": 77,
+      "hiVel": 101
+    },
+    {
+      "note": "F#4",
+      "sample": "darkblack_gb4_ghost_f_rr1",
+      "loVel": 77,
+      "hiVel": 101
+    },
+    {
+      "note": "F#4",
+      "sample": "darkblack_gb4_ghost_p_rr1",
+      "loVel": 0,
+      "hiVel": 25
+    },
+    {
+      "note": "F#4",
+      "sample": "darkblack_gb4_mf_rr1",
+      "loVel": 51,
+      "hiVel": 76
+    },
+    {
+      "note": "F#4",
+      "sample": "darkblack_gb4_mp_rr1",
+      "loVel": 26,
+      "hiVel": 50
+    },
+    {
+      "note": "F#4",
+      "sample": "darkblack_gb4_p_rr1",
+      "loVel": 0,
+      "hiVel": 25
+    },
+    {
+      "note": "G4",
+      "sample": "babyblue_g4_f_rr1",
+      "loVel": 77,
+      "hiVel": 101
+    },
+    {
+      "note": "G4",
+      "sample": "babyblue_g4_ff_rr1",
+      "loVel": 102,
+      "hiVel": 127
+    },
+    {
+      "note": "G4",
+      "sample": "darkblack_g4_f_rr1",
+      "loVel": 77,
+      "hiVel": 101
+    },
+    {
+      "note": "G4",
+      "sample": "darkblack_g4_ghost_f_rr1",
+      "loVel": 77,
+      "hiVel": 101
+    },
+    {
+      "note": "G4",
+      "sample": "darkblack_g4_ghost_p_rr1",
+      "loVel": 0,
+      "hiVel": 25
+    },
+    {
+      "note": "G4",
+      "sample": "darkblack_g4_mf_rr1",
+      "loVel": 51,
+      "hiVel": 76
+    },
+    {
+      "note": "G4",
+      "sample": "darkblack_g4_mp_rr1",
+      "loVel": 26,
+      "hiVel": 50
+    },
+    {
+      "note": "G4",
+      "sample": "darkblack_g4_p_rr1",
+      "loVel": 0,
+      "hiVel": 25
+    },
+    {
+      "note": "G#4",
+      "sample": "babyblue_ab4_f_rr1",
+      "loVel": 77,
+      "hiVel": 101
+    },
+    {
+      "note": "G#4",
+      "sample": "babyblue_ab4_ff_rr1",
+      "loVel": 102,
+      "hiVel": 127
+    },
+    {
+      "note": "G#4",
+      "sample": "darkblack_ab4_f_rr1",
+      "loVel": 77,
+      "hiVel": 101
+    },
+    {
+      "note": "G#4",
+      "sample": "darkblack_ab4_ghost_f_rr1",
+      "loVel": 77,
+      "hiVel": 101
+    },
+    {
+      "note": "G#4",
+      "sample": "darkblack_ab4_ghost_p_rr1",
+      "loVel": 0,
+      "hiVel": 25
+    },
+    {
+      "note": "G#4",
+      "sample": "darkblack_ab4_mf_rr1",
+      "loVel": 51,
+      "hiVel": 76
+    },
+    {
+      "note": "G#4",
+      "sample": "darkblack_ab4_mp_rr1",
+      "loVel": 26,
+      "hiVel": 50
+    },
+    {
+      "note": "G#4",
+      "sample": "darkblack_ab4_p_rr1",
+      "loVel": 0,
+      "hiVel": 25
+    },
+    {
+      "note": "A4",
+      "sample": "babyblue_a4_f_rr1",
+      "loVel": 77,
+      "hiVel": 101
+    },
+    {
+      "note": "A4",
+      "sample": "babyblue_a4_ff_rr1",
+      "loVel": 102,
+      "hiVel": 127
+    },
+    {
+      "note": "A4",
+      "sample": "darkblack_a4_f_rr1",
+      "loVel": 77,
+      "hiVel": 101
+    },
+    {
+      "note": "A4",
+      "sample": "darkblack_a4_ghost_f_rr1",
+      "loVel": 77,
+      "hiVel": 101
+    },
+    {
+      "note": "A4",
+      "sample": "darkblack_a4_ghost_p_rr1",
+      "loVel": 0,
+      "hiVel": 25
+    },
+    {
+      "note": "A4",
+      "sample": "darkblack_a4_mf_rr1",
+      "loVel": 51,
+      "hiVel": 76
+    },
+    {
+      "note": "A4",
+      "sample": "darkblack_a4_mp_rr1",
+      "loVel": 26,
+      "hiVel": 50
+    },
+    {
+      "note": "A4",
+      "sample": "darkblack_a4_p_rr1",
+      "loVel": 0,
+      "hiVel": 25
+    },
+    {
+      "note": "A#4",
+      "sample": "babyblue_bb4_f_rr1",
+      "loVel": 77,
+      "hiVel": 101
+    },
+    {
+      "note": "A#4",
+      "sample": "babyblue_bb4_ff_rr1",
+      "loVel": 102,
+      "hiVel": 127
+    },
+    {
+      "note": "A#4",
+      "sample": "darkblack_bb4_f_rr1",
+      "loVel": 77,
+      "hiVel": 101
+    },
+    {
+      "note": "A#4",
+      "sample": "darkblack_bb4_ghost_f_rr1",
+      "loVel": 77,
+      "hiVel": 101
+    },
+    {
+      "note": "A#4",
+      "sample": "darkblack_bb4_ghost_p_rr1",
+      "loVel": 0,
+      "hiVel": 25
+    },
+    {
+      "note": "A#4",
+      "sample": "darkblack_bb4_mf_rr1",
+      "loVel": 51,
+      "hiVel": 76
+    },
+    {
+      "note": "A#4",
+      "sample": "darkblack_bb4_mp_rr1",
+      "loVel": 26,
+      "hiVel": 50
+    },
+    {
+      "note": "A#4",
+      "sample": "darkblack_bb4_p_rr1",
+      "loVel": 0,
+      "hiVel": 25
+    },
+    {
+      "note": "B4",
+      "sample": "babyblue_b4_f_rr1",
+      "loVel": 77,
+      "hiVel": 101
+    },
+    {
+      "note": "B4",
+      "sample": "babyblue_b4_ff_rr1",
+      "loVel": 102,
+      "hiVel": 127
+    },
+    {
+      "note": "B4",
+      "sample": "darkblack_b4_f_rr1",
+      "loVel": 77,
+      "hiVel": 101
+    },
+    {
+      "note": "B4",
+      "sample": "darkblack_b4_ghost_f_rr1",
+      "loVel": 77,
+      "hiVel": 101
+    },
+    {
+      "note": "B4",
+      "sample": "darkblack_b4_ghost_p_rr1",
+      "loVel": 0,
+      "hiVel": 25
+    },
+    {
+      "note": "B4",
+      "sample": "darkblack_b4_mf_rr1",
+      "loVel": 51,
+      "hiVel": 76
+    },
+    {
+      "note": "B4",
+      "sample": "darkblack_b4_mp_rr1",
+      "loVel": 26,
+      "hiVel": 50
+    },
+    {
+      "note": "B4",
+      "sample": "darkblack_b4_p_rr1",
+      "loVel": 0,
+      "hiVel": 25
+    },
+    {
+      "note": "C5",
+      "sample": "babyblue_c5_f_rr1",
+      "loVel": 77,
+      "hiVel": 101
+    },
+    {
+      "note": "C5",
+      "sample": "babyblue_c5_ff_rr1",
+      "loVel": 102,
+      "hiVel": 127
+    },
+    {
+      "note": "C5",
+      "sample": "darkblack_c5_f_rr1",
+      "loVel": 77,
+      "hiVel": 101
+    },
+    {
+      "note": "C5",
+      "sample": "darkblack_c5_ghost_f_rr1",
+      "loVel": 77,
+      "hiVel": 101
+    },
+    {
+      "note": "C5",
+      "sample": "darkblack_c5_ghost_p_rr1",
+      "loVel": 0,
+      "hiVel": 25
+    },
+    {
+      "note": "C5",
+      "sample": "darkblack_c5_mf_rr1",
+      "loVel": 51,
+      "hiVel": 76
+    },
+    {
+      "note": "C5",
+      "sample": "darkblack_c5_mp_rr1",
+      "loVel": 26,
+      "hiVel": 50
+    },
+    {
+      "note": "C5",
+      "sample": "darkblack_c5_p_rr1",
+      "loVel": 0,
+      "hiVel": 25
+    },
+    {
+      "note": "C#5",
+      "sample": "babyblue_db5_f_rr1",
+      "loVel": 77,
+      "hiVel": 101
+    },
+    {
+      "note": "C#5",
+      "sample": "babyblue_db5_ff_rr1",
+      "loVel": 102,
+      "hiVel": 127
+    },
+    {
+      "note": "C#5",
+      "sample": "darkblack_db5_f_rr1",
+      "loVel": 77,
+      "hiVel": 101
+    },
+    {
+      "note": "C#5",
+      "sample": "darkblack_db5_ghost_f_rr1",
+      "loVel": 77,
+      "hiVel": 101
+    },
+    {
+      "note": "C#5",
+      "sample": "darkblack_db5_ghost_p_rr1",
+      "loVel": 0,
+      "hiVel": 25
+    },
+    {
+      "note": "C#5",
+      "sample": "darkblack_db5_mf_rr1",
+      "loVel": 51,
+      "hiVel": 76
+    },
+    {
+      "note": "C#5",
+      "sample": "darkblack_db5_mp_rr1",
+      "loVel": 26,
+      "hiVel": 50
+    },
+    {
+      "note": "C#5",
+      "sample": "darkblack_db5_p_rr1",
+      "loVel": 0,
+      "hiVel": 25
+    },
+    {
+      "note": "D5",
+      "sample": "babyblue_d5_f_rr1",
+      "loVel": 77,
+      "hiVel": 101
+    },
+    {
+      "note": "D5",
+      "sample": "babyblue_d5_ff_rr1",
+      "loVel": 102,
+      "hiVel": 127
+    },
+    {
+      "note": "D5",
+      "sample": "darkblack_d5_f_rr1",
+      "loVel": 77,
+      "hiVel": 101
+    },
+    {
+      "note": "D5",
+      "sample": "darkblack_d5_ghost_f_rr1",
+      "loVel": 77,
+      "hiVel": 101
+    },
+    {
+      "note": "D5",
+      "sample": "darkblack_d5_ghost_p_rr1",
+      "loVel": 0,
+      "hiVel": 25
+    },
+    {
+      "note": "D5",
+      "sample": "darkblack_d5_mf_rr1",
+      "loVel": 51,
+      "hiVel": 76
+    },
+    {
+      "note": "D5",
+      "sample": "darkblack_d5_mp_rr1",
+      "loVel": 26,
+      "hiVel": 50
+    },
+    {
+      "note": "D5",
+      "sample": "darkblack_d5_p_rr1",
+      "loVel": 0,
+      "hiVel": 25
+    },
+    {
+      "note": "D#5",
+      "sample": "babyblue_eb5_f_rr1",
+      "loVel": 77,
+      "hiVel": 101
+    },
+    {
+      "note": "D#5",
+      "sample": "babyblue_eb5_ff_rr1",
+      "loVel": 102,
+      "hiVel": 127
+    },
+    {
+      "note": "D#5",
+      "sample": "darkblack_eb5_f_rr1",
+      "loVel": 77,
+      "hiVel": 101
+    },
+    {
+      "note": "D#5",
+      "sample": "darkblack_eb5_ghost_f_rr1",
+      "loVel": 77,
+      "hiVel": 101
+    },
+    {
+      "note": "D#5",
+      "sample": "darkblack_eb5_ghost_p_rr1",
+      "loVel": 0,
+      "hiVel": 25
+    },
+    {
+      "note": "D#5",
+      "sample": "darkblack_eb5_mf_rr1",
+      "loVel": 51,
+      "hiVel": 76
+    },
+    {
+      "note": "D#5",
+      "sample": "darkblack_eb5_mp_rr1",
+      "loVel": 26,
+      "hiVel": 50
+    },
+    {
+      "note": "D#5",
+      "sample": "darkblack_eb5_p_rr1",
+      "loVel": 0,
+      "hiVel": 25
+    },
+    {
+      "note": "E5",
+      "sample": "darkblack_e5_f_rr1",
+      "loVel": 96,
+      "hiVel": 127
+    },
+    {
+      "note": "E5",
+      "sample": "darkblack_e5_ghost_f_rr1",
+      "loVel": 96,
+      "hiVel": 127
+    },
+    {
+      "note": "E5",
+      "sample": "darkblack_e5_ghost_p_rr1",
+      "loVel": 0,
+      "hiVel": 31
+    },
+    {
+      "note": "E5",
+      "sample": "darkblack_e5_mf_rr1",
+      "loVel": 64,
+      "hiVel": 95
+    },
+    {
+      "note": "E5",
+      "sample": "darkblack_e5_mp_rr1",
+      "loVel": 32,
+      "hiVel": 63
+    },
+    {
+      "note": "E5",
+      "sample": "darkblack_e5_p_rr1",
+      "loVel": 0,
+      "hiVel": 31
+    }
+  ]
 }
